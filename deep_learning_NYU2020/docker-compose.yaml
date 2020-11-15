@@ -1,0 +1,10 @@
+version: '2.3'
+
+services:
+   nvsmi:
+        name: dl_nyu
+        image: deep_learning:nyu
+	runtime: nvidia
+	environment:
+	   - NVIDIA_VISIBLE_DEVICES=all
+	command: nvidia-smi

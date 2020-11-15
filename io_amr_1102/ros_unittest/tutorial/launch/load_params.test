@@ -1,0 +1,4 @@
+<launch>
+  <include file="$(find tutorial)/launch/load_params.launch" />
+  <test test-name="test_params" pkg="tutorial" type="test_params_2.py" />
+</launch>

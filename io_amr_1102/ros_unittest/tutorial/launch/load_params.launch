@@ -1,0 +1,4 @@
+<launch>
+ <!-- <node name="load_param_node" pkg="tutorial" type="test_params.py"/> -->
+  <rosparam file="$(find tutorial)/config/tutorial.yaml" command="load" />
+</launch>
