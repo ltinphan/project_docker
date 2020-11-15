@@ -1,0 +1,3 @@
+[submodule "motion_imitation_gg/motion_imitation"]
+	path = motion_imitation_gg/motion_imitation
+	url = https://github.com/google-research/motion_imitation.git
