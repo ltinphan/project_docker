@@ -1,0 +1,10 @@
+jorgebucaran/fisher
+simnalamburt/shellder
+jethrokuan/z
+x-motemen/ghq
+peco/peco
+ogham/exa
+oh-my-fish: https://github.com/oh-my-fish/oh-my-fish#startup
+font: source code pro from nerd fonts.
+https://github.com/ryanoasis/nerd-fonts
+to install nerd-fonts, run the command: ./install.sh <font_name>
